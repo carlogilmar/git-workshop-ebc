@@ -6,8 +6,7 @@ Sed non leo et nisl commodo vehicula.
 Duis eu mauris et est aliquam malesuada.
 Nunc laoreet est in augue convallis imperdiet.
 Integer molestie eros vitae commodo blandit.
-Cras maximus lorem in sem convallis scelerisque.
-Ut bibendum dui eget ligula interdum, et sodales nunc euismod.
+Et sodales nunc euismod.
 In nec nisl et sem efficitur faucibus.
 Donec at dolor at ante viverra hendrerit.
 Phasellus faucibus metus iaculis justo laoreet interdum.
